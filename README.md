@@ -7,3 +7,6 @@
     The model is trained on the training data using fit.
     We make predictions on the test data using predict.
     Model performance is evaluated with accuracy, a classification report, and a confusion matrix.
+    We create a mesh grid to plot the decision boundary of the model.
+    The decision boundary is plotted along with the test data points.
+    We also create a confusion matrix heatmap to visualize the model's performance on the test data.
